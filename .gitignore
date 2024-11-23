@@ -1,0 +1,13 @@
+**/model_files
+**/node_modules
+**/uploads
+**.pth
+models/Expansion_new/ExpansionNet_v2/eval/meteor/data/paraphrase-en.gz
+models/Fastspeech2_MFA/vocoder/female/aryan/hifigan/generator
+models/Fastspeech2_MFA/vocoder/male/aryan/hifigan/generator
+models/Fastspeech2_MFA/vocoder/male/dravidian/hifigan/generator
+
+models/Expansion_new/ExpansionNet_v2/eval/meteor/data/
+models/Fastspeech2_MFA/vocoder/female/aryan/hifigan/
+models/Fastspeech2_MFA/vocoder/male/aryan/hifigan/
+models/Fastspeech2_MFA/vocoder/male/dravidian/hifigan/
